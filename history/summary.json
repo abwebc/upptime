@@ -1,20 +1,20 @@
 [
   {
-    "name": "neuron.com.pl",
-    "url": "http://neuron.com.pl",
-    "icon": "https://favicons.githubusercontent.com/neuron.com.pl",
-    "slug": "neuron-com-pl",
+    "name": "domena.pl",
+    "url": "https://domena.pl",
+    "icon": "https://favicons.githubusercontent.com/domena.pl",
+    "slug": "domena-pl",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1255,
-    "timeDay": 1089,
-    "timeWeek": 1199,
-    "timeMonth": 1255,
-    "timeYear": 1255,
+    "time": 2274,
+    "timeDay": 2274,
+    "timeWeek": 2274,
+    "timeMonth": 2274,
+    "timeYear": 2274,
     "dailyMinutesDown": {}
   }
 ]
