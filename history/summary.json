@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/domena.pl",
     "slug": "domena-pl",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 2235,
-    "timeDay": 2055,
-    "timeWeek": 2054,
-    "timeMonth": 2239,
-    "timeYear": 2235,
-    "dailyMinutesDown": {
-      "2022-02-02": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2239,
+    "timeDay": 2305,
+    "timeWeek": 2102,
+    "timeMonth": 2256,
+    "timeYear": 2239,
+    "dailyMinutesDown": {}
   }
 ]
