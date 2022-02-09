@@ -4,7 +4,7 @@
     "url": "https://domena.pl",
     "icon": "https://favicons.githubusercontent.com/domena.pl",
     "slug": "domena-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,9 +12,11 @@
     "uptimeYear": "100.00%",
     "time": 2238,
     "timeDay": 2304,
-    "timeWeek": 2239,
+    "timeWeek": 2267,
     "timeMonth": 2293,
     "timeYear": 2238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   }
 ]
